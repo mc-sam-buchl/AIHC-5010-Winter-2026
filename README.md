@@ -8,7 +8,7 @@ Github repo for AIHC 5010
 
 ![](/assets/project-1-webpage.png)
 
-<iframe src="Project-1/readmit30/faculty/docs/index.html" width="100%" height="600"></iframe>
+[Open Rendered HTML](https://github.com/TLKline/AIHC-5010-Winter-2026/blob/main/Project-1/readmit30/faculty/docs/index.html)
 
 ### Project 2
 
